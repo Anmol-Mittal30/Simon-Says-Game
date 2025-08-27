@@ -25,7 +25,12 @@ The player must repeat the sequence of flashing colors correctly — if you miss
 ---
 
 ## 📂 Project Structure
-
+```
+ Simon-Says-Game/
+├── index.html # Main game page
+├── style.css # Styling (button design)
+└── app.js # Game logic (sequence, flash, user input)
+```
 
 
 ---
