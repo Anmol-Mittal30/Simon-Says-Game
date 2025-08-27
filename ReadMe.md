@@ -31,6 +31,7 @@ Simon-Says-Game/
 └── app.js       # Game logic (sequence, flash, user input)
 
 
+
 ---
 
 ## ⚡ Installation / Setup
